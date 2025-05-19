@@ -1,0 +1,68 @@
+commit 2213af63e164bd58f1444d05901211c573064c27
+Merge: 379b4c1 b870690
+Author: Arisa Yoshio <184593927+tooDM-0202@users.noreply.github.com>
+Date:   Mon May 19 14:24:10 2025 +0900
+
+    ピースの色を変更
+    
+    ちゃんと変更
+    衝突対処
+
+commit 379b4c1f922bf0db513918bf79fdee7e6c4ba5d8
+Author: Arisa Yoshio <184593927+tooDM-0202@users.noreply.github.com>
+Date:   Mon May 19 14:18:38 2025 +0900
+
+    ピースの色を変更
+    
+    blueをskyblueに変更
+
+commit b870690999e7f3d5da17e0642b547a546d419eb4
+Author: tooDM-0202 <184593927+tooDM-0202@users.noreply.github.com>
+Date:   Mon May 19 14:17:18 2025 +0900
+
+    reピースの色変更
+    
+    シアンをスカイブルーに変更
+
+commit 1e01f77091a74432a819bb53935bd1993bd74a8b
+Author: Arisa Yoshio <184593927+tooDM-0202@users.noreply.github.com>
+Date:   Mon May 19 14:14:52 2025 +0900
+
+    巻き戻し
+
+commit 78ce164e4bc9a7b1ad22ced544b5af06faeb2175
+Merge: 3d32b4c 0b582b0
+Author: Arisa Yoshio <184593927+tooDM-0202@users.noreply.github.com>
+Date:   Mon May 19 14:04:59 2025 +0900
+
+    Merge branch 'main' of https://github.com/tooDM-0202/241205183-git-wprkshop
+
+commit 0b582b08da28161f7fec97169a1abb7202b90cf7
+Author: tooDM-0202 <184593927+tooDM-0202@users.noreply.github.com>
+Date:   Mon May 19 14:02:59 2025 +0900
+
+    ピースの色を変更
+    
+    cyanをskyblueに変更
+
+commit 3d32b4c93c833cf0ce30c98d1f55058519c87b4c
+Author: Arisa Yoshio <184593927+tooDM-0202@users.noreply.github.com>
+Date:   Mon May 19 13:55:27 2025 +0900
+
+    ピースが落ちてくる速度を変更
+    
+    少し遅く変更
+
+commit 14dc059ed3106cf71f832a7ea96e418db0fb2607
+Author: Arisa Yoshio <184593927+tooDM-0202@users.noreply.github.com>
+Date:   Mon May 19 13:46:58 2025 +0900
+
+    ピースの色を変更
+    
+    深緑greenを明るい緑色limeに変更
+
+commit 73bb4e377a13b23ec24575cd8af0942c90ed90f3
+Author: Arisa Yoshio <184593927+tooDM-0202@users.noreply.github.com>
+Date:   Mon May 19 13:34:45 2025 +0900
+
+    canvas-tetrisのソースコードをインポート
